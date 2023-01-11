@@ -1,0 +1,6 @@
+ID					Objective			  Prog		CLOS
+1	An ability to apply mathematics to solving computing problems.	1	3/4
+2	Understand contemporary issues in electrical engineering.	2	1/2
+3	Base analysis, problem-solving, and design on  EE theory.	2	10/11
+4	Apply CE design to produce solutions that meet specified needs	3	6/7/5
+5	Perform quality control testing to evaluate equipment & methods	3	8/9

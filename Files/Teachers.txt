@@ -1,0 +1,6 @@
+ID	 Name		Password	Courss	Evalss
+4	Ali Hamza	12345678	1/5	1/6
+5	Basheera	12345678	2	2
+6	Anum Fatima	12345678	3/4	3/7
+7	Abdul Rehman	12345678	1/2/5	5/8/9
+8	Malik Amir	12345678	4/5	4/10

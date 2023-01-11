@@ -1,0 +1,12 @@
+ID				 Objective			Coures  Topics  PLOS
+1	Strengthern Logic Building and design convertors.	1	1/2/9	2
+2	Bulid different useful meachines using logic design.	1	1/2	2
+3	Stenthen and develop logic bulding and problem solving	1/2/5	1/9	1
+4	Learn Basics of Programming and syntax of C++ language.	2	3/4/9	1
+5	Learn Techniques of research and report writingg	3	6	4
+6	Understand difference b/w usual and technical writing.	3	5	4
+7	Enhance and strengthen communication skills at work.	3	5/6	4
+8	Revise and implement principals of Islam in practice.	4	7	5
+9	Understand the correct concept of Relegion (Islam)	4	7	5
+10	Understand Types OF Circut and their implementation.	5	2/8	3
+11	Understand usage of different Devices in practical.	5	8	3

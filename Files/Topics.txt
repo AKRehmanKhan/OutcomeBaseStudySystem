@@ -1,0 +1,10 @@
+ID		Name 		CLOS
+1	Digital Meachines	1/2/3
+2	Circut Diagram BGH	1/2/10
+3	Loops & their types	4
+4	Functions & parameters	4
+5	Technical Writing	6/7
+6	Research & Report	5/7
+7	Pillare of Islam	8/9
+8	Instruments & circuits	10/11
+9	Logic Building tech	1/3/4

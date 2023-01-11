@@ -1,0 +1,16 @@
+ID				Statement			CLOSs
+1	What is Multiplexer and Demultipler in Digital LD?	2/3
+2	Design the circuit diagram of a grey code convertor.	1/3
+3	Write a program to print Arithmatic Series from n.	4/3
+4	Write a function to add two numbers taken from user	4/3
+5	Differenciate b/w workplace and academic writing?	6/7
+6	Differentiate qualitative & quantitative research.	5/7
+7	Define pillars of Islam & give brief description.	8/9
+8	What is Touheed and Eloborate belief on Messengers.	8/9
+9	Differentiate b/w Ammerter and Voltmeter & voltmeter	11/10
+10	Differentiate betweeen series & parallel circuits 	10
+11	Differentiate packet switching and circuit switching	10
+12	What is Faith and describe importance of its firmness	8/9
+13	What imparitor and define bit flip mechanism in DLD	1/3
+14	Design a function which takes two params and return 0	4
+15	geed Question	1/2
